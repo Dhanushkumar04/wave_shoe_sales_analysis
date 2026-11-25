@@ -11,8 +11,6 @@ The dashboard transforms raw transactional data into meaningful business insight
 
 ## Dataset Overview
 
-<img width="1462" height="822" alt="image" src="https://github.com/user-attachments/assets/345808b8-9067-42de-b474-745c316a5c8f" />
-
 The dataset contains retail sales transaction details with the following attributes:
 
 | Column | Description |
@@ -84,7 +82,7 @@ The dataset contains retail sales transaction details with the following attribu
 
 ## Dashboard Preview
 
-![Wave Shoes Sales Dashboard](images/dashboard.png)
+<img width="1462" height="822" alt="image" src="https://github.com/user-attachments/assets/345808b8-9067-42de-b474-745c316a5c8f" />
 
 ## How to Explore
 
